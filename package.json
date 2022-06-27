@@ -1,0 +1,19 @@
+{
+  "name": "taskautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "testHead": "npx cypress run --headed",
+    "chromeTest": "npm run testHead -- --browser chrome"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@zxing/browser": "^0.1.1",
+    "@zxing/library": "^0.19.1",
+    "cypress": "^10.2.0",
+    "cypress-file-upload": "^5.0.8"
+  }
+}

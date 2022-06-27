@@ -1,0 +1,8 @@
+{
+  "name": "testUserA",
+  "nameNum": "test123",
+  "email": "testUserA@automation.com",
+  "invalidEmail":"12@.com",
+  "phoneNumber": "9481403127",
+  "country":"India"
+}
